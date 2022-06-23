@@ -47,6 +47,13 @@ export default {
 				storeOriginalFilename: false,
 				accept: ".svg",
 			},
+			fields: [
+				{
+					name: "siteLogoTransformationQuery",
+					type: "string",
+					title: "Transformation Query",
+				},
+			],
 		},
 		{
 			name: "siteKeywords",
