@@ -1,9 +1,9 @@
 export default {
 	widgets: [
-			{
+		{
 			name: "netlify",
 			layout: {
-				width: "small",
+				width: "large",
 				height: "small",
 			},
 			options: {
@@ -18,6 +18,13 @@ export default {
 					}
 				]
 			}
-		}
+		},
+		{
+			name: "plausible-iframe",
+			layout: {
+				width: "large",
+				height: "large",
+			},
+		},
 	]
 }

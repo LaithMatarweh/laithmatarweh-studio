@@ -1369,7 +1369,7 @@
     postcss-value-parser "^3.3.0"
     source-list-map "^2.0.0"
 
-"@sanity/dashboard@^2.30.1":
+"@sanity/dashboard@^2.21.10", "@sanity/dashboard@^2.30.1":
   version "2.30.1"
   resolved "https://registry.npmjs.org/@sanity/dashboard/-/dashboard-2.30.1.tgz#e26dbe6077513eb1cbf845ce82fd8916b4888bc3"
   integrity sha512-M2DG9p54ptGf7q4P3wOQAuSmsFJz/7B/pP3QDTu+R0UGmD2bEraf23t0FfaCQSIl7cs14Qb0upqbl64TPO+wtw==
@@ -9204,6 +9204,13 @@ sanity-plugin-dashboard-widget-netlify@^1.2.1:
     abort-controller "^2.0.3"
     react-props-stream "^1.0.0"
     rxjs "^6.0.0"
+
+sanity-plugin-plausible-iframe@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.npmjs.org/sanity-plugin-plausible-iframe/-/sanity-plugin-plausible-iframe-1.0.2.tgz#db23067fcee35fd27496a628ef499e1043c1cdd9"
+  integrity sha512-gXtCOsLcTf5mhGe5vCaNQ82FoTUHn9qkgHt97FJniILECKpkiCsu3IKfKZ0h/jAtHAT+S5slatx8MFa8fVcutA==
+  dependencies:
+    "@sanity/dashboard" "^2.21.10"
 
 sax@~1.2.4:
   version "1.2.4"
