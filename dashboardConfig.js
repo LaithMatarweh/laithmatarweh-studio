@@ -3,7 +3,7 @@ export default {
 		{
 			name: "netlify",
 			layout: {
-				width: "large",
+				width: "small",
 				height: "small",
 			},
 			options: {
