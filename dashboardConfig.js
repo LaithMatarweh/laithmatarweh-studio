@@ -11,8 +11,8 @@ export default {
 				sites: [
 					{
 						title: "Laith Matarweh Studio for Architecture ",
-						apiId: "7b52c474-779a-4fb9-bc94-3e15cc93ff2e",
-						buildHookId: "62b432ec693ee86bb07e419a",
+						apiId: "74ecab22-d000-4d11-8e2f-572c3d682b89",
+						buildHookId: "62ec0723ac35f81181d9392d",
 						name: "laithmatarweh-web",
 						url: "https://laithmatarweh.com",
 					}
